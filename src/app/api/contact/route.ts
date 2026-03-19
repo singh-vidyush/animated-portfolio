@@ -55,7 +55,7 @@ Message: ${message}
       success: true,
       message: "Message sent successfully",
     })
-  } catch (error) {
+  } catch {
     return NextResponse.json(
       {
         success: false,

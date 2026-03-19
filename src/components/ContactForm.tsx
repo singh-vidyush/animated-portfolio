@@ -43,7 +43,7 @@ export default function ContactForm() {
       } else {
         showPopup("error");
       }
-    } catch (error) {
+    } catch {
       showPopup("error");
     }
   };
