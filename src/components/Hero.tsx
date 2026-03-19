@@ -165,7 +165,7 @@ export default function Hero() {
               }}
             >
               <Image
-                src="/images/vidyush.jpeg"
+                src="/images/Vidyush.jpeg"
                 alt="Vidyush Singh — Developer, Designer, Freelancer"
                 fill
                 priority
