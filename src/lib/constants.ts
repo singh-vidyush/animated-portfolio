@@ -80,17 +80,17 @@ export const NAV_LINKS = [
 export const SOCIAL_LINKS = [
   {
     label: "Instagram",
-    href: "https://instagram.com/vidyush",
+    href: "https://www.instagram.com/frustrated_ion/",
     icon: "Instagram",
   },
   {
     label: "GitHub",
-    href: "https://github.com/vidyush",
+    href: "https://github.com/singh-vidyush",
     icon: "Github",
   },
   {
     label: "LinkedIn",
-    href: "https://linkedin.com/in/vidyush",
+    href: "https://www.linkedin.com/in/vidyush-singh-949b25224/",
     icon: "Linkedin",
   },
 ];
