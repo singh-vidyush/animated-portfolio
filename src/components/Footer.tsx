@@ -62,6 +62,17 @@ export default function Footer() {
           <div className="text-xl font-bold opacity-80 text-center">
             singhvidyush@gmail.com
           </div>
+          <div className="text-xl font-bold opacity-80 text-center">
+            Download Resume:{" "}
+            <a
+              href="https://singh-vidyush.github.io/re/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-brutal-red transition-colors duration-200"
+            >
+              LINK
+            </a>
+          </div>
 
           {/* Right — Social Icons */}
           <div className="flex items-center gap-4">
