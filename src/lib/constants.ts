@@ -95,7 +95,7 @@ export const SOCIAL_LINKS = [
   },
 ];
 
-export const ABOUT_TEXT = `I'm Vidyush — a developer, designer, and freelancer who loves building internet products. I obsess over the little details, experiment with new tools, and enjoy collaborating with people who have bold ideas. Whether it's a sleek landing page, a complex web app, or an automated workflow — I'm into it.`;
+export const ABOUT_TEXT = `I’m Vidyush, a developer and designer passionate about building impactful digital products. I focus on crafting clean, user-centric experiences while paying close attention to detail. I enjoy exploring new technologies, experimenting with modern tools, and collaborating with teams to bring innovative ideas to life. From intuitive landing pages to scalable web applications and automated workflows, I strive to deliver efficient and well-designed solutions.`;
 
 export const BG_WORDS = [
   "FULL STACK DEVELOPER",
