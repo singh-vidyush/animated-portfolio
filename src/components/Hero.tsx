@@ -111,7 +111,7 @@ export default function Hero() {
           </h1>
 
           <div className="flex flex-wrap gap-3 hero-text-animate opacity-0">
-            {["developer", "designer", "freelancer", "and a good boy"].map(
+            {["Rrontend developer", "UI/UX designer", "Freelancer"].map(
               (role, i) => (
                 <Badge
                   key={role}
